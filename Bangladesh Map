@@ -1,0 +1,1074 @@
+#include<stdio.h>
+#include<windows.h>
+int main()
+{
+    int i;
+
+    printf("        ");
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*1*/
+
+        printf("\n");
+        printf("         ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*2*/
+
+    printf("\n");
+    printf("        ");
+
+    for(i=0;i<6;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*3*/
+
+    printf("\n");
+    printf("      ");
+
+    for(i=0;i<14;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("    ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*4*/
+
+    printf("\n");
+    printf("    ");
+
+    for(i=0;i<18;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*5*/
+
+    printf("\n");
+    printf("   ");
+
+    for(i=0;i<26;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*6*/
+
+    printf("\n");
+    printf("   ");
+
+    for(i=0;i<27;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*7*/
+
+    printf("\n");
+    printf("     ");
+
+    for(i=0;i<25;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*8*/
+
+    printf("\n");
+    printf("       ");
+
+    for(i=0;i<23;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*9*/
+
+    printf("\n");
+    printf("          ");
+
+    for(i=0;i<21;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*10*/
+
+    printf("\n");
+    printf("              ");
+
+    for(i=0;i<18;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*11*/
+
+    printf("\n");
+    printf("                 ");
+
+    for(i=0;i<16;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*12*/
+
+    printf("\n");
+    printf("             ");
+
+    for(i=0;i<53;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*13*/
+
+    printf("\n");
+    printf("          ");
+
+    for(i=0;i<60;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*14*/
+
+    printf("\n");
+    printf("        ");
+
+    for(i=0;i<64;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*15*/
+
+    printf("\n");
+    printf("     ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<65;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*16*/
+
+    printf("\n");
+    printf("   ");
+
+    for(i=0;i<66;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*17*/
+
+    printf("\n");
+    printf("   ");
+
+    for(i=0;i<65;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*18*/
+
+    printf("\n");
+    printf("    ");
+
+    for(i=0;i<63;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*19*/
+
+    printf("\n");
+    printf("       ");
+
+    for(i=0;i<58;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*10*/
+
+    printf("\n");
+    printf("            ");
+
+    for(i=0;i<51;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*21*/
+
+    printf("\n");
+    printf("             ");
+
+    for(i=0;i<46;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*22*/
+
+    printf("\n");
+    printf("            ");
+
+    for(i=0;i<44;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*23*/
+
+    printf("\n");
+    printf("            ");
+
+    for(i=0;i<41;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*24*/
+
+    printf("\n");
+    printf("            ");
+
+    for(i=0;i<40;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*25*/
+
+    printf("\n");
+    printf("           ");
+
+    for(i=0;i<41;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("            ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*26*/
+
+    printf("\n");
+    printf("           ");
+
+    for(i=0;i<41;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("           ");
+
+    for(i=0;i<5;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*27*/
+
+    printf("\n");
+    printf("            ");
+
+    for(i=0;i<40;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("           ");
+
+    for(i=0;i<6;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*28*/
+
+    printf("\n");
+    printf("             ");
+
+    for(i=0;i<40;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("        ");
+
+    for(i=0;i<8;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*29*/
+
+    printf("\n");
+    printf("                ");
+
+    for(i=0;i<38;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("       ");
+
+    for(i=0;i<8;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*10*/
+
+    printf("\n");
+    printf("               ");
+
+    for(i=0;i<27;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<12;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<10;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*31*/
+
+    printf("\n");
+    printf("               ");
+
+    for(i=0;i<26;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<12;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<10;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*32*/
+
+    printf("\n");
+    printf("                ");
+
+    for(i=0;i<26;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<26;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*33*/
+
+    printf("\n");
+    printf("                ");
+
+    for(i=0;i<27;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<26;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*34*/
+
+    printf("\n");
+    printf("                ");
+
+    for(i=0;i<28;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<6;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<16;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*35*/
+
+    printf("\n");
+    printf("                 ");
+
+    for(i=0;i<30;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<14;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*36*/
+
+    printf("\n");
+    printf("                 ");
+
+    for(i=0;i<29;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<14;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*37*/
+
+    printf("\n");
+    printf("                 ");
+
+    for(i=0;i<30;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("    ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<13;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*38*/
+
+    printf("\n");
+    printf("                  ");
+
+    for(i=0;i<12;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<16;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<4;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("    ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+    printf("   ");
+
+    for(i=0;i<12;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*39*/
+
+    printf("\n");
+    printf("                  ");
+
+    for(i=0;i<8;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<15;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("       ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+    printf("    ");
+
+    for(i=0;i<11;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*40*/
+
+    printf("\n");
+    printf("                   ");
+
+    for(i=0;i<6;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<4;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<7;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+    printf("  ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("             ");
+
+    for(i=0;i<11;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*41*/
+
+    printf("\n");
+    printf("                   ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<4;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("               ");
+
+    for(i=0;i<11;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*42*/
+
+    printf("\n");
+    printf("                    ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("  ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("                 ");
+
+    for(i=0;i<12;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*43*/
+
+        printf("\n");
+        printf("                                                              ");
+
+    for(i=0;i<12;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*44*/
+
+    printf("\n");
+    printf("                                                                ");
+
+    for(i=0;i<6;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf(" ");
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*45*/
+
+    printf("\n");
+    printf("                                                                ");
+
+    for(i=0;i<5;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("   ");
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*46*/
+
+    printf("\n");
+    printf("                                                                 ");
+
+    for(i=0;i<3;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    printf("     ");
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*47*/
+
+    printf("\n");
+    printf("                                                                  ");
+
+    for(i=0;i<2;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*48*/
+
+    printf("\n");
+    printf("                                                                   ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*49*/
+
+    printf("\n");
+    printf("                                                                    ");
+
+    for(i=0;i<1;i++)
+    {
+        Sleep(10);
+        printf("#");
+    }
+
+    ///*50*/
+
+    printf("\n\n\n");
+    printf("\t <Tousifinity/>\n");
+
+    return 0;
+
+}
